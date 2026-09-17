@@ -24,10 +24,16 @@ I am looking for entry-level opportunities in Cloud Computing, AWS, Linux Admini
 
 ### Socials
 
-<p>
-  <a href="https://github.com/Sumishasunilt"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30"/></a>
-  <a href="https://www.linkedin.com/in/sumisha-sunil-t/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30"/></a>
+<p align="left">
+  <a href="https://github.com/Sumishasunilt">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="25" height="25"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sumisha-sunil-t/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25"/>
+  </a>
 </p>
+
+
 
 ## 🛠️ Skills
 
