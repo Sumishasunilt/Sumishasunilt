@@ -44,7 +44,7 @@ Amazon EC2 • Amazon S3 • VPC • IAM • RDS • CloudFront • ELB • Auto
 Linux • Ubuntu • Amazon Linux • SSH • TCP/IP • DNS • HTTP/HTTPS • CCNA
 
 **Programming & Database**  
-Python • SQL • MySQL • HTML • CSS • JavaScript
+Python • SQL 
 
 **DevOps & Tools**  
 Git • GitHub • AWS CLI • Docker • Jenkins • Terraform • CI/CD
