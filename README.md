@@ -66,8 +66,3 @@ Static website hosting using Amazon S3 with CloudFront for content delivery and 
 - AWS Cloud Computing Certification — Besant Technologies
 - Cloud Computing and DevOps — NASSCOM / IT-ITeS Sector Skills Council
 - CCNA Training — Besant Technologies
-
-### Socials
-
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/Sumishasunilt)
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/sumisha-sunil-t/)
