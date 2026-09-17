@@ -18,9 +18,7 @@ I am looking for entry-level opportunities in Cloud Computing, AWS, Linux Admini
   <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="30"/></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30"/></a>
-  <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="30"/></a>
-  <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="30"/></a>
-</p>
+ </p>
 
 ### Socials
 
