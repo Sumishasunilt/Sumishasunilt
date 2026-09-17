@@ -9,21 +9,25 @@ My projects include AWS EC2 web server setup, S3 static website hosting with Clo
 I am looking for entry-level opportunities in Cloud Computing, AWS, Linux Administration, Technical Support, System Administration, or IT Infrastructure where I can apply my skills, gain industry experience, and grow as an IT professional.
 
 - 🌍 I'm based Banglore I
-- ✉️ You can contact me at **sumishasumil52@gmail.com**                                                                                                           
+- ✉️ You can contact me at **sumishasumil52@gmail.com**                                                                                                          
 
-[![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)](https://git-scm.com/)
-[![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg)](https://www.linux.org/)
-[![Ubuntu](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg)](https://ubuntu.com/)
-[![AWS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg)](https://aws.amazon.com/)
-[![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)](https://www.python.org/)
-[![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg)](https://www.docker.com/)
-[![Terraform](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg)](https://www.terraform.io/)
-[![Jenkins](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg)](https://www.jenkins.io/)
+<p>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="30"/></a>
+  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="30"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="30"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30"/></a>
+  <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="30"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="30"/></a>
+</p>
 
 ### Socials
 
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/Sumishasunilt)
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/sumisha-sunil-t/)
+<p>
+  <a href="https://github.com/Sumishasunilt"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30"/></a>
+  <a href="https://www.linkedin.com/in/sumisha-sunil-t/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30"/></a>
+</p>
 
 ## 🛠️ Skills
 
