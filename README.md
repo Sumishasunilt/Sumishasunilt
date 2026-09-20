@@ -8,7 +8,7 @@ My projects include AWS EC2 web server setup, S3 static website hosting with Clo
 
 I am looking for entry-level opportunities in Cloud Computing, AWS, Linux Administration, Technical Support, System Administration, or IT Infrastructure where I can apply my skills, gain industry experience, and grow as an IT professional.
 
-- 🌍 I'm based in Banglore 
+- 🌍 I'm based in Bangalore 
 - ✉️ You can contact me at **sumishasumil52@gmail.com**                                                                                                          
 
 <p>
